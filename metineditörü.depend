@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1482905541 source:c:\users\merve\desktop\metineditörü\main.c
+	<curses.h>
+	<signal.h>
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<errno.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+
+1482905541 source:d:\metineditörü\main.c
+	<curses.h>
+	<signal.h>
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<errno.h>
+	<ctype.h>
+	<string.h>
+	<stdio.h>
+
